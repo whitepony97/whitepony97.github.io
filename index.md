@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+### 研究方向
 
-You can use the [editor on GitHub](https://github.com/whitepony97/whitepony97.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+超大规模数字集成电路设计、人工智能处理器、计算机体系结构等
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
 
-### Markdown
+- 2016年9月 - 2020年7月 ，集成电路设计与集成系统，工学学士
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 获得荣誉
 
-```markdown
-Syntax highlighted code block
+- 2016年度华中科技大学新生学习优异奖学金
+- 2016-2017学年华中科技大学三好学生
+- 2017-2018学年华中科技大学三好学生
+- 2017-2018学年华中科技大学优秀共青团干部
+- 2016级本科生军训优秀学员
+- 2019年美国大学生数学建模大赛Honorable Mention
+- 2019年第三届全国大学生集成电路创新创业大赛全国总决赛三等奖
 
-# Header 1
-## Header 2
-### Header 3
+### 项目经历
 
-- Bulleted
-- List
+- ##### 2018年4月-2019年3月：校级大创《信息安全计算机红黑信号识别算法研究》，项目负责人
 
-1. Numbered
-2. List
+  进行团队协调与沟通，主持开题、中期、结题答辩
 
-**Bold** and _Italic_ and `Code` text
+  研究语音谱减降噪算法，处理低信噪比训练及测试信号 
 
-[Link](url) and ![Image](src)
-```
+  研究动态时间规整算法，实现信号识别
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- ##### 2018年8月-2018年9月：武汉木神机器人有限责任公司，机器人运动控制工程师
 
-### Jekyll Themes
+  基于开源ROS系统及导航包，调试参数实现机器人避障导航
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whitepony97/whitepony97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- ##### 2019年1月-2019年2月：2019年美国大学生数学建模大赛，参赛队员
 
-### Support or Contact
+  无人机飞行路径的有向图模型设计，中文论文写作
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- ##### 2019年3月-2019年7月：第三届全国大学生集成电路创新创业大赛，队长
+
+  “平头哥杯”基于DTU端云一体芯片敏捷开发，实现传感器与DTU通讯及数据上传
+
+### 其他活动
+
+- 光学与电子信息学院“2017年度十大歌手”20强选手
+- 华中科技大学夏雨诗社社员
+- 华中科技大学广播台中文播音员
+- 华中科技大学喻园之声文艺晚会节目负责人
+- 光学与电子信息学院2018年度表彰大会主持人
