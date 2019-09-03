@@ -54,3 +54,6 @@
 - 华中科技大学广播台中文播音员
 - 华中科技大学喻园之声文艺晚会节目负责人
 - 光学与电子信息学院2018年度表彰大会主持人
+
+## 母校简介
+<iframe src="//player.bilibili.com/player.html?aid=56170676&cid=98179520&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
