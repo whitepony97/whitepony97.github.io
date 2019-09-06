@@ -1,6 +1,6 @@
 # Welcome to Zhang Jinshan's personal homepage
 
-I am an undergraduate from School of Optics and Electronic Information (OEI) of Huazhong University of Science and Technology (HUST). I am mainly interested in digital integrated circuit design. Welcome!
+I am an undergraduate from School of Optics and Electronic Information (OEI) of Huazhong University of Science and Technology (HUST). I am mainly interested in digital IC design. Welcome!
 
 [中文版](index.html)
 
@@ -10,30 +10,30 @@ Artificial Intelligence Processor, RISC-V, Computer Architecture, etc
 
 ## Education
 
-- September 2004 - July 2010,  Experimental Primary school, Yichang city,Hubei 
+- September 2004 - July 2010,  Experimental Primary School, Yichang City,Hubei 
 
-- September 2010 -- July 2013, No. 4 middle school, Yichang city, Hubei
+- September 2010 -- July 2013, No. 4 Middle School, Yichang City, Hubei
 
 
-- September 2013 - July 2016, Yiling Middle School, Yichang city, Hubei 
+- September 2013 - July 2016, Yiling Middle School, Yichang City, Hubei 
 
-- September 2016 - July 2020, Huazhong University of Science and Technology, integrated circuit design and integrated system, bachelor of engineering
+- September 2016 - July 2020, Huazhong University of Science and Technology (HUST), IC Design and Integrated System, Bachelor of Engineering
 
 ## Honors
 
-- 2016 , academic merit scholarship for freshmen of HUST
+- 2016 , Academic Merit Scholarship for freshmen of HUST
 
-- 2017 , merit student of HUST 
+- 2017 , Merit Student of HUST 
 
-- 2018 , merit student of HUST 
+- 2018 , Merit Student of HUST 
 
-- 2018 , outstanding communist youth league cadre of HUST
+- 2018 , Outstanding Communist Youth League Cadre of HUST
 
-- 2016 , outstanding cadet of undergraduate military training
+- 2016 , Outstanding Cadet of Undergraduate Military Training
 
 - 2019  Honorable Mention in MCM/ICM
 
-- 2019 , the third prize in China College IC Competition
+- 2019 , The Third Prize in China College IC Competition
 
 ## Experience
 
@@ -50,12 +50,12 @@ Artificial Intelligence Processor, RISC-V, Computer Architecture, etc
 
 ## Other activities
 
-- top 20 contestants of "2017 top ten singers" of the school of Optics and Electronics and Information
+- Top 20 Contestants of "2017 Top Ten Singers" of the School of Optics and Electronics and Information
 
-- member of Xiayu poetry club, HUST
+- Member of Xiayu poetry club, HUST
 
-- Chinese announcer of Yuyuan Broadcast Station, HUST
+- Chinese Snnouncer of Yuyuan Broadcast Station, HUST
 
-- person in charge of Yuyuan Literary Evening, HUST
+- Director of Yuyuan Literary Evening, HUST
 
-- host of 2018 annual commendation meeting of School of Optics, Electronics and Information
+- Host of 2018 annual commendation meeting of School of Optics, Electronics and Information
